@@ -1,0 +1,11 @@
+#test if else
+score = input("Enter your score")
+if(score>79):
+	print"A"
+elif(score>69):
+	print"B"
+elif(score>59):
+	print"C"
+else :
+	print"D"
+
