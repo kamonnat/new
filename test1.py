@@ -1,5 +1,5 @@
-#test if else 1
-score = input("Enter your score")
+#test if else 1 
+score = input("Enter your score for cal")
 if(score>79):
 	print"A"
 elif(score>69):

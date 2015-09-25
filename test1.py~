@@ -1,4 +1,4 @@
-#test if else
+#test if else 1 
 score = input("Enter your score")
 if(score>79):
 	print"A"
